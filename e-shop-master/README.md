@@ -3,8 +3,6 @@ A React js e commerce application.
 
 ---
 
-### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
-
 ---
 
 ## Project Description
@@ -54,23 +52,18 @@ The project is for the people who wanna get more skilled in `ReactJs`.
 
 ---
 
-## Feedback
-
-If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
-
-Happy Coding! 🚀
 
 # Website's screenshots
  
  ## Home page
  
-![1](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/e2d63a22-1eb0-477d-94db-bc5205058cb9)
+![1](https://github.com/samarpitchauhan/e-shop/assets/59603716/e2d63a22-1eb0-477d-94db-bc5205058cb9)
 
 
 ## Login page
-![3](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/7b12c7d8-01d6-4df1-b64f-6e857a2bb51c)
+![3](https://github.com/samarpitchauhan/e-shop/assets/59603716/7b12c7d8-01d6-4df1-b64f-6e857a2bb51c)
 
 
 ## Cart
-![2](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/a652aec9-3e92-4e48-b9d4-16c1f54667fd)
+![2](https://github.com/samarpitchauhan/e-shop/assets/59603716/a652aec9-3e92-4e48-b9d4-16c1f54667fd)
 
